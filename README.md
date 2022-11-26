@@ -8,11 +8,17 @@ DESEVOLVIMENTO DE UM SOFTWARE EM JAVA PARA O GERENCIAMENTO DE UM PET SHOP
 Este projeto apresenta o desenvolvimento do sistema de gerenciamento de um pet shop onde foram utilizados, a metodologia Orientada a Objeto e as ferramentas Netbeans com a plataforma de desenvolvimento Java, e hibernat, junto com o banco de dados, MySql. O sistema tem a finalidade de informatizar o estabelecimento, e controlar todo o sistema e gerenciamento da empresa como o estoque, vendas, cadastros e o atendimento personalizado a cada cliente e animal. A intenção principal é facilitar a troca de informação entre os clientes e funcionários, tornando o ambiente tecnológico e habitual mais eficiente e mais ágil, trazendo máximo de benefício para seus usuários, considerando a quantidade de serviço que a empresa pode oferecer aos seus clientes e trazendo o resultado esperado para o empreendedor.
 
 O objetivo é criar um software para um pet shop, que atenda todas as necessidades do empreendedor trazendo um controle total das ações de sua empresa. Com o levantamento de requisitos foi observada a necessidade imediata de controlar as funções dessa empresa como o controle de cadastros, vendas, estoque, compras e serviços, relatórios e todo o faturamento da empresa de forma que o empreendedor possa ter o controle exato de todas as funções da empresa trazendo um resultado significativo em qualquer tomada de decisão refletindo diretamente na receita diária de empresa.
+
 Escopo:
+
 Os Cadastros de cliente e animal deverão ser efetuados pelos funcionários.
+
 Os produtos, serviços e usuários deverão ser efetuados pelo gerente.
+
 Os clientes poderão optar por produtos ou serviços.
+
 Diversos relatórios serão disponibilizados para fornecedores e clientes.
+
 Por questão de segurança o sistema contará com recursos de autenticação de
 usuáriosWBS – Work Breakdown Structure
 -WBS é um agrupamento de elemento do projeto que organiza e define total
