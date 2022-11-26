@@ -1,2 +1,3 @@
 # PetShop
 DESEVOLVIMENTO DE UM SOFTWARE EM JAVA PARA O GERENCIAMENTO DE UM PET SHOP
+![image](https://user-images.githubusercontent.com/51009664/204096291-1512ef78-e97f-42a7-8245-814ba796cc3d.png)
