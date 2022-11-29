@@ -1,13 +1,13 @@
 # PetShop
 DESEVOLVIMENTO DE UM SOFTWARE EM JAVA PARA O GERENCIAMENTO DE UM PET SHOP 
 
-"PET GOOD"
+"HappyLife Pet Shop"
 
 "GABRIEL RAMOS, VINICIUS WESTIM"
 
-Este projeto apresenta o desenvolvimento do sistema de gerenciamento de um pet shop onde foram utilizados, a metodologia Orientada a Objeto e as ferramentas Netbeans com a plataforma de desenvolvimento Java, e hibernat, junto com o banco de dados, MySql. O sistema tem a finalidade de informatizar o estabelecimento, e controlar todo o sistema e gerenciamento da empresa como o estoque, vendas, cadastros e o atendimento personalizado a cada cliente e animal. A intenção principal é facilitar a troca de informação entre os clientes e funcionários, tornando o ambiente tecnológico e habitual mais eficiente e mais ágil, trazendo máximo de benefício para seus usuários, considerando a quantidade de serviço que a empresa pode oferecer aos seus clientes e trazendo o resultado esperado para o empreendedor.
+Este projeto apresenta o desenvolvimento do sistema de gerenciamento de um E-commerce pet shop onde foram utilizados, a metodologia Orientada a Objeto e as ferramentas Netbeans com a plataforma de desenvolvimento em php e MySql. O sistema tem a finalidade de informatizar o estabelecimento, e controlar todo o sistema e gerenciamento da empresa como vendas, cadastros e o atendimento personalizado a cada cliente e animal. A intenção principal é facilitar a troca de informação entre os clientes e funcionários, tornando o ambiente tecnológico e habitual mais eficiente e mais ágil, trazendo máximo de benefício para seus usuários, considerando a quantidade de serviço que a empresa pode oferecer aos seus clientes e trazendo o resultado esperado para o empreendedor.
 
-O objetivo é criar um software para um pet shop, que atenda todas as necessidades do empreendedor trazendo um controle total das ações de sua empresa. Com o levantamento de requisitos foi observada a necessidade imediata de controlar as funções dessa empresa como o controle de cadastros, vendas, estoque, compras e serviços, relatórios e todo o faturamento da empresa de forma que o empreendedor possa ter o controle exato de todas as funções da empresa trazendo um resultado significativo em qualquer tomada de decisão refletindo diretamente na receita diária de empresa.
+O objetivo é criar um software para um pet shop, que atenda todas as necessidades do empreendedor trazendo um controle total das ações de sua empresa. Com o levantamento de requisitos foi observada a necessidade imediata de controlar as funções dessa empresa como o controle de cadastros, vendas e serviços, relatórios da empresa de forma que o empreendedor possa ter o controle exato de todas as funções da empresa trazendo um resultado significativo em qualquer tomada de decisão refletindo diretamente na receita diária de empresa. Com um diferencial para os clientes que seria uma area especifica para procurar parceiros ideias para reprodução "acasalamento" de seus animais. Usuario cria uma conta no site, realiza o cadastro do seu animal, através de outro cadastros por outros clientes com fotos e informações do animal para fazer escolha, adiciona no carrinho como se fosse um produto, e o site é responsavel por fazer o intermedio entre os responsaveis dos animais. Segurança fornecida com entrevista para conhecer o responsavel e o animal, validação da carteira de vacina do animal, conferencia do pedigree (se tiver) e fotos do animal.
 
 Escopo:
 
@@ -90,5 +90,8 @@ relatórios envolvendo a modelagem das etapas sequenciais deste processo.
 
 - ![image](https://user-images.githubusercontent.com/51009664/204097394-611de39d-c21b-4d73-a2a6-a70af892ba19.png)
 
-Este projeto foi desenvolvido com o objetivo de oferecer um sistema simples e de baixo custo, permitindo informatizar as principais funções, de uma loja de PetShop de pequeno porte, como controlar vendas, cadastros, estoque.
+Este projeto foi desenvolvido com o objetivo de oferecer um sistema simples e de baixo custo, permitindo informatizar as principais funções, de uma loja de PetShop de pequeno porte, como controlar vendas, compras, e cruzamentos.
 Para empreendimentos futuros pretende-se implantar um controle de vendas a prazo, para dar mais comodidade a cada cliente, e um fluxo de caixa completo com parcelamento e lançamento de nota fiscal, buscando trazer para a empresa e para seus colaboradores controle e segurança sobre cada movimentação melhorando o desempenho de sistema e a satisfação dos clientes.
+Fontes:
+https://www.petshopcontrol.com.br/blog/quais-os-produtos-mais-vendidos-em-pet-shop/
+https://www.trendsce.com.br/2022/08/08/mercado-pet-conheca-os-numeros-do-setor-que-segue-em-expansao/
